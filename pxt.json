@@ -1,0 +1,19 @@
+{
+    "name": "xchip",
+    "description": "",
+    "dependencies": {
+        "xinabox-cs11": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
